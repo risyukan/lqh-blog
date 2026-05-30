@@ -1,19 +1,35 @@
 [
   {
     "slug": "claudecode_beautify",
-    "views": 2950
+    "views": 2972
+  },
+  {
+    "slug": "unityskills",
+    "views": 1684
   },
   {
     "slug": "deepwiki-unityskills",
-    "views": 1437
+    "views": 1444
+  },
+  {
+    "slug": "ai-studio-zhcn",
+    "views": 1217
   },
   {
     "slug": "unity-mcp",
     "views": 498
   },
   {
+    "slug": "unitymr-spatial-anchor",
+    "views": 486
+  },
+  {
     "slug": "openwebuieoai",
     "views": 420
+  },
+  {
+    "slug": "antigravity-login",
+    "views": 341
   },
   {
     "slug": "claudecode",
@@ -48,8 +64,16 @@
     "views": 229
   },
   {
+    "slug": "github-1",
+    "views": 218
+  },
+  {
     "slug": "gemini-balance-docker",
     "views": 152
+  },
+  {
+    "slug": "openwebui",
+    "views": 151
   },
   {
     "slug": "unity-module",
@@ -66,29 +90,5 @@
   {
     "slug": "openwebui-base-image",
     "views": 119
-  },
-  {
-    "slug": "ai-studio-zhcn",
-    "views": 0
-  },
-  {
-    "slug": "antigravity-login",
-    "views": 0
-  },
-  {
-    "slug": "github-1",
-    "views": 0
-  },
-  {
-    "slug": "openwebui",
-    "views": 0
-  },
-  {
-    "slug": "unitymr-spatial-anchor",
-    "views": 0
-  },
-  {
-    "slug": "unityskills",
-    "views": 0
   }
 ]

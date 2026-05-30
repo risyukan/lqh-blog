@@ -123,7 +123,7 @@ export const navBarConfig: NavBarConfig = {
 
 export const profileConfig: ProfileConfig = {
 	avatar: "/images/avatar.webp", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
-	name: "流转星(Betsy)",
+	name: "李秋翰(Liqiuhan)",
 	bio: ["爱我所爱，我们是彼此永远的动力"],
 	links: [
 		{

@@ -11,7 +11,7 @@ import type {
 import { LinkPreset } from "./types/config";
 
 export const siteConfig: SiteConfig = {
-	title: "Betsy Blog",
+	title: "Li Qiuhan's Blog",
 	subtitle: "分享网络技术、服务器部署、Unity开发、AI技术应用与原理",
 	description:
 		"分享网络技术、服务器部署、Unity开发、AI技术应用与原理、作者为流转星(Betsy)",
@@ -162,7 +162,7 @@ export const umamiConfig: UmamiConfig = {
 // 防盗链/域名保护配置
 export const antiLeechConfig: AntiLeechConfig = {
 	enable: true,
-	officialSites: [{ url: "https://www.micostar.cc", name: "主站" }],
+	officialSites: [{ url: "https://www.liqiuhan.cc", name: "主站" }],
 	debug: false,
 	warningTitle: "⚠️ 域名安全警告",
 	warningMessage:

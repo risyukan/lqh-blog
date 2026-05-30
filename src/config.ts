@@ -12,9 +12,9 @@ import { LinkPreset } from "./types/config";
 
 export const siteConfig: SiteConfig = {
 	title: "Li Qiuhan's Blog",
-	subtitle: "分享网络技术、服务器部署、Unity开发、AI技术应用与原理",
+	subtitle: "记录关于我的一切",
 	description:
-		"分享网络技术、服务器部署、Unity开发、AI技术应用与原理、作者为流转星(Betsy)",
+		"记录关于我的一切,作者:李秋翰",
 
 	keywords: [],
 	lang: "zh_CN", // 'en', 'zh_CN', 'zh_TW', 'ja', 'ko', 'es', 'th'
@@ -37,12 +37,12 @@ export const siteConfig: SiteConfig = {
 	},
 	background: {
 		enable: true, // Enable background image
-		src: "https://img.micostar.cc/random", // 优先使用新 API
+		src: "/images/background.jpg", // 本地背景图
 		position: "center", // Background position: 'top', 'center', 'bottom'
 		size: "cover", // Background size: 'cover', 'contain', 'auto'
 		repeat: "no-repeat", // Background repeat: 'no-repeat', 'repeat', 'repeat-x', 'repeat-y'
 		attachment: "fixed", // Background attachment: 'fixed', 'scroll', 'local'
-		opacity: 0.5, // Background opacity (0-1)
+		opacity: 0.4, // Background opacity (0-1)
 	},
 	toc: {
 		enable: true, // Display the table of contents on the right side of the post
@@ -51,9 +51,9 @@ export const siteConfig: SiteConfig = {
 	favicon: [
 		// Leave this array empty to use the default favicon
 		{
-			src: "https://image.cloudrunmax.top/file/CF/1756734381495_58fc963052f0a5cd8ce123b8d10c4a53.jpg", // Path of the favicon, relative to the /public directory
+			src: "/images/favicon.jpg", // Path of the favicon, relative to the /public directory
 			//   theme: 'light',              // (Optional) Either 'light' or 'dark', set only if you have different favicons for light and dark mode
-			//   sizes: '32x32',              // (Optional) Size of the favicon, set only if you have favicons of different sizes
+			sizes: '64x64',              // (Optional) Size of the favicon, set only if you have favicons of different sizes
 		},
 	],
 	apps: [
